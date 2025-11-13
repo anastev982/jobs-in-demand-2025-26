@@ -1,0 +1,15 @@
+# virtual envs
+.venv/
+.virtual_documents/
+
+# jupyter junk
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+*.log
+'data/raw/

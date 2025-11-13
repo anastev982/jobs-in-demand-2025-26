@@ -1,0 +1,11 @@
+,kafka,bigquery,spark,dbt,airflow,snowflake,mlops,kubernetes,gcp,azure data factory,databricks
+Accountant,0,0,1,0,0,0,0,0,3,0,0
+Assistant,0,0,1,0,0,0,0,0,1,0,0
+Engineer,10,1,5,1,2,2,1,13,7,1,1
+Healthcare,0,0,0,0,0,0,0,0,0,0,0
+Manager,0,0,0,0,0,0,0,0,0,0,0
+Other,498,93,976,119,155,459,82,1046,963,120,297
+Project/Program Mgmt,0,0,0,0,0,0,0,0,1,0,1
+Sales,0,0,4,0,0,2,0,0,0,0,0
+Sales/Manager,0,0,0,0,0,0,0,0,0,0,0
+Support/CS,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+,skill_1,skill_2,skill_3
+Accountant,gcp,spark,kafka
+Assistant,spark,gcp,kafka
+Engineer,kubernetes,kafka,gcp
+Healthcare,kafka,bigquery,spark
+Manager,kafka,bigquery,spark
+Other,kubernetes,spark,gcp
+Project/Program Mgmt,databricks,gcp,kafka
+Sales,spark,snowflake,kafka
+Sales/Manager,kafka,bigquery,spark
+Support/CS,kafka,bigquery,spark
