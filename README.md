@@ -191,7 +191,7 @@ Heatmap visualization
 
 AUTHOR
 
-Ana Paunović
+Ana Stevanovic
 Data Scientist / Data Analyst / ML Enthusiast
 🇷🇸 Serbia / 🇳🇴 Norway
 
