@@ -194,6 +194,3 @@ AUTHOR
 Ana Stevanovic
 Data Scientist / Data Analyst / ML Enthusiast
 🇷🇸 Serbia / 🇳🇴 Norway
-
-Connect on LinkedIn: your link here
-Portfolio: GitHub link here
